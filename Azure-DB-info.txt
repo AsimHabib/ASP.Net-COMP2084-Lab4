@@ -1,0 +1,6 @@
+:: Azure DB Setup ::
+
+server name: asimmvcmusicstore.database.windows.net (asimmvcmusicstore)
+DB Name: MusicStoreMVC
+login: comp2084mvc
+pass: MAX@1234
